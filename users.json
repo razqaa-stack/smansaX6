@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "kelas": "X.6",
+    "jumlah_siswa": 36,
+    "updated": "2026-08-17T08:16:50.640Z"
+  },
+  "siswa": [
+    {
+      "id": 1786954549152,
+      "nama": "ADHA HERMANSYAH NAZARA",
+      "nohp": "-",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549153,
+      "nama": "ASYIFA QAIRATUL ZAHRA",
+      "nohp": "081267264232",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549154,
+      "nama": "AULIA RAHMA",
+      "nohp": "6285936569794",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549155,
+      "nama": "AURA AGUSTINA",
+      "nohp": "085833175163",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549156,
+      "nama": "CHOLIQSHA ULHAQ",
+      "nohp": "6281365856363",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549157,
+      "nama": "DZACKY PRATAMA",
+      "nohp": "085263762982",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549158,
+      "nama": "EXCELL AGUS KRISTIAN",
+      "nohp": "081276871472",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549159,
+      "nama": "FARAZ ALFARIZKI",
+      "nohp": "-",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549160,
+      "nama": "FATHATUL KHAIRANI",
+      "nohp": "081363011441",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549161,
+      "nama": "FATIH ALFARUQ",
+      "nohp": "081266823846",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549162,
+      "nama": "FUJI MANISA RAMADHANI",
+      "nohp": "085274442845",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549163,
+      "nama": "GALUH SABRINA P",
+      "nohp": "081276062284",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549164,
+      "nama": "GEBIELA TAKBIRATUL ADHA",
+      "nohp": "089611534956",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549165,
+      "nama": "GIVO ARIFANO",
+      "nohp": "085274462184",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549166,
+      "nama": "HADAFI MAULANA",
+      "nohp": "082170122916",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549167,
+      "nama": "HARUN",
+      "nohp": "085668712652",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549168,
+      "nama": "JAUZAA RAHEL AZZA",
+      "nohp": "-",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549169,
+      "nama": "KHUMAIRAH ALTAFUNNISA",
+      "nohp": "082171988077",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549170,
+      "nama": "LINGGADJATI AYUDHIYA NUGRAHA",
+      "nohp": "085263001408",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549171,
+      "nama": "MUHAMMAD AQIL ASHRAF",
+      "nohp": "081363114027",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549172,
+      "nama": "MUHAMMAD FADHLUL AZIZ",
+      "nohp": "083182332679",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549173,
+      "nama": "MUHAMMAD HAFIDZ ALWI",
+      "nohp": "088708352860",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549174,
+      "nama": "MUHAMMAD JORDAN",
+      "nohp": "085376466976",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549175,
+      "nama": "MUHAMMAD LATEEF YUDHIE",
+      "nohp": "-",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549176,
+      "nama": "MUHAMMAD SYAHID AL FARISY",
+      "nohp": "083186204880",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549177,
+      "nama": "NOVRIALDI",
+      "nohp": "082172112854",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549178,
+      "nama": "QATRUNNADA ASYSYFA",
+      "nohp": "0895320300069",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549179,
+      "nama": "QIRANA ALVIONISHA",
+      "nohp": "085211903333",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549180,
+      "nama": "QUEENCY AQILA RAMADHANI",
+      "nohp": "081267336895",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549181,
+      "nama": "RAFQI RAMADHAN",
+      "nohp": "-",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549182,
+      "nama": "SAFA SAKBANNIA",
+      "nohp": "089635700409",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549183,
+      "nama": "SATRIA SANJAYA",
+      "nohp": "08990121201",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549184,
+      "nama": "SUSAN ALIYANA LUTFIY",
+      "nohp": "085274162665",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549185,
+      "nama": "SYAFA AQILAH DYTIHANA",
+      "nohp": "085355380512",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549186,
+      "nama": "THALITA BALQIS JUNAIDI",
+      "nohp": "082246703841",
+      "kelas": "X.6"
+    },
+    {
+      "id": 1786954549187,
+      "nama": "YUMENAJWA MASITOH MELAFU",
+      "nohp": "081266697131",
+      "kelas": "X.6"
+    }
+  ]
+}
